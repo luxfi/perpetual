@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="perpetual" width="880"></p>
+
 # Stub Package for Launching a New Perpetual
 
 The purpose of this repository/package is to make it easy to customize your Perpetual deployment. Feel free to use this
